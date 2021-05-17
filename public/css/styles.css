@@ -16,7 +16,7 @@ body {
 
 body {
   position: relative;
-  font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
+  font-family: 'KoHo', sans-serif;
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
@@ -36,12 +36,12 @@ h3,
 h4,
 h5,
 p {
-  font-family: 'Merriweather', serif;
+  font-family: 'KoHo', sans-serif;
   color: #7b6079;
 }
 
 h5 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'KoHo', sans-serif;
   letter-spacing: 2.5px;
   -webkit-text-transform: uppercase;
   text-transform: uppercase;
