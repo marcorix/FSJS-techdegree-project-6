@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Dashboard",
+      "description": "Open the command line, navigate to your project",
+      "technologies": ["HTML", "Sass", "Javascript"],
+      "live_link": "https://marcorix.github.io/techdegree-project-7/",
+      "github_link": "https://github.com/marcorix/techdegree-project-7",
+      "image_urls": [
+        "../static/images/project1/project1_1.png",
+        "../static/images/project1/project1_2.png",
+        "../static/images/project1/project1_3.png",
+        "../static/images/project1/project1_4.png"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "OOP GameShow App",
+      "description": "A letter guessing game",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://github.com/marcorix/techdegree-project-9",
+      "github_link": "file:///Users/marcoricci/CODING/TREEHOUSE/FEWD/techdegree-project-9/index.html",
+      "image_urls": [
+        "../static/images/project2/project2_1.png",
+        "../static/images/project2/project2_2.png",
+        "../static/images/project2/project2_3.png",
+        "../static/images/project2/project2_4.png"
+      ]
+    }
+  ]
+}
