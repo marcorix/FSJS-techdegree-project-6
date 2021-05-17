@@ -19,13 +19,54 @@
       "project_name": "OOP GameShow App",
       "description": "A letter guessing game",
       "technologies": ["HTML", "CSS", "Javascript"],
-      "live_link": "https://github.com/marcorix/techdegree-project-9",
-      "github_link": "file:///Users/marcoricci/CODING/TREEHOUSE/FEWD/techdegree-project-9/index.html",
+      "live_link": "https://marcorix.github.io/techdegree-project-6/",
+      "github_link": "https://github.com/marcorix/techdegree-project-6",
       "image_urls": [
         "../static/images/project2/project2_1.png",
         "../static/images/project2/project2_2.png",
         "../static/images/project2/project2_3.png",
         "../static/images/project2/project2_4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Photo Gallery",
+      "description": "A photo gallery about nature",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://marcorix.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/marcorix/techdegree-project-5",
+      "image_urls": [
+        "../static/images/project3/project3_1.png",
+        "../static/images/project3/project3_2.png",
+        "../static/images/project3/project3_3.png",
+        "../static/images/project3/project3_4.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Awesome Employee Directory",
+      "description": "An app that displays a gallery of users",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://marcorix.github.io/techdegree-project-8/",
+      "github_link": "https://github.com/marcorix/techdegree-project-8",
+      "image_urls": [
+        "../static/images/project4/project4_1.png",
+        "../static/images/project4/project4_2.png",
+        "../static/images/project4/project4_3.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Online Style Guide",
+      "description": "An app that displays css styles",
+      "technologies": ["HTML", "CSS", "Javascript"],
+      "live_link": "https://marcorix.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/marcorix/techdegree-project-4",
+      "image_urls": [
+        "../static/images/project5/project5_1.png",
+        "../static/images/project5/project5_2.png",
+        "../static/images/project5/project5_3.png",
+        "../static/images/project5/project5_4.png"
       ]
     }
   ]
