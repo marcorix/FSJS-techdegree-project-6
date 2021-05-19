@@ -49,7 +49,7 @@ app.use((error, req, res, next) => {
 
   // Render Template Based On Status Code
   if (res.statusCode === 404) {
-    res.render('not-found', { error });
+    res.render('page-not-found', { error });
   } else {
     console.log(`Sorry. There has been an error`);
 
